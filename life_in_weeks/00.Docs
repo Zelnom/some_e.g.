@@ -1,0 +1,9 @@
+Task:
+-to create a program using maths and f-string that will tell us how many weeks we have left until the age of 90
+
+
+-usually a year has 52 weeks, however every four years there is one extra day to the 52 weeks
+
+After trying different values I saw that in case we give a wrong input it returns an error, so I made the version
+    upgrade to return a custom error as to understand better what is wrong with the input
+
